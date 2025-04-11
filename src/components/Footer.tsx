@@ -104,7 +104,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-white/10 text-center text-gray-400">
           <p>
-            © {new Date().getFullYear()} Harikarthik A. All rights reserved.
+            © {new Date().getFullYear()} Karthikeyan A. All rights reserved.
           </p>
         </div>
       </div>
