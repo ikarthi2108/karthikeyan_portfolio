@@ -20,7 +20,7 @@ export default function Projects() {
             transition={{ duration: 0.5 }}
             className="bg-white/5 rounded-xl p-6 hover:bg-white/10 transition-colors"
           >
-            <h3 className="text-2xl font-bold mb-4">SloganSpark – AI-Powered Caption Generator</h3>
+            <h3 className="text-2xl font-bold mb-4">SloganSpark – AI-Powered Caption Generator(Personal Project)</h3>
             <p className="text-gray-300 mb-4">
               Full-stack web app to generate catchy slogans and marketing captions using OpenAI.
               Includes user login, history tracking, and favorite management.
@@ -42,7 +42,7 @@ export default function Projects() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="bg-white/5 rounded-xl p-6 hover:bg-white/10 transition-colors"
           >
-            <h3 className="text-2xl font-bold mb-4">PLAFERA – Quiz, Donation & Waste Collection</h3>
+            <h3 className="text-2xl font-bold mb-4"> Quiz, Donation & Waste Collection</h3>
             <p className="text-gray-300 mb-4">
               A waste management platform featuring quizzes, donations, and challenges with
               responsive UI and role-based access control.
@@ -63,7 +63,7 @@ export default function Projects() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="bg-white/5 rounded-xl p-6 hover:bg-white/10 transition-colors"
           >
-            <h3 className="text-2xl font-bold mb-4">FESTIVAL PRO – Event & Artist Info Guide</h3>
+            <h3 className="text-2xl font-bold mb-4">Event & Artist Info Guide</h3>
             <p className="text-gray-300 mb-4">
               Mobile app to explore and manage event schedules with offline support using SQLite
               for uninterrupted access.
@@ -81,14 +81,14 @@ export default function Projects() {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="bg-white/5 rounded-xl p-6 hover:bg-white/10 transition-colors"
           >
-            <h3 className="text-2xl font-bold mb-4">PHSS – Employee Management System</h3>
+            <h3 className="text-2xl font-bold mb-4">Employee Management System</h3>
             <p className="text-gray-300 mb-4">
               Mobile-first employee app for managing schedules, leave requests, and real-time
               updates using Twilio notifications.
             </p>
             <div className="flex gap-2 flex-wrap">
               <span className="badge">React Native</span>
-              <span className="badge">Twilio API</span>
+              <span className="badge">REST API</span>
             </div>
           </motion.div>
         </div>
